@@ -1,0 +1,104 @@
+    1  cd Documents/
+    2  cd ..
+    3  cd Desktop/
+    4  mkdir doc
+    5  cd  doc/
+    6  cd ..
+    7  mkdir git
+    8  cd git/
+    9  touch index.html
+   10  git config --get user.name
+   11  git config -global user.name "Kylian Deschamps"
+   12  git config --*global user.name "Kylian Deschamps"
+   13  git config --get user.name
+   14  git config --global user.name "Kylian Deschamps"
+   15  git config --get user.name
+   16  git config --global user.emai "
+Kylian.Deschamps@etu.univ-grenoble-alpes.fr"
+   17  git config --get user.name
+   18* git config --global user.emai "
+Kylian.Deschamps@etu.univ-grenoble-alpes.fr
+   19* ssh-keygen -t ed25519 -c"72141241
+   20  git config --get user.email
+   21  git config --global core.editor vim
+   22  git config --global merge.tool vimdiff
+   23  git init
+   24  git statuts
+   25  git status
+   26  git add.index.html
+   27* 
+   28  git status
+   29  git add.
+   30  git add .
+   31  git status
+   32  git commit -m 'debut de projet'
+   33  git status
+   34  git add style-sheet.css
+   35  git status
+   36  git status
+   37  git add .
+   38  git status
+   39  git commit -m 'CSS ET PAGE WEB'
+   40  git add .
+   41  git commit -m 'Mon titre 2'
+   42  git add .
+   43  git status
+   44  git add .
+   45  git commit -m 'Mon titre 3'
+   46  git status
+   47  ssh-keygen -t ed25519 -C [200~
+   48  ssh-keygen -t ed25519 -C Kylian.Deschamps@etu.univ-grenoble-alpes.fr
+   49  git remote add origin git@github.com:Oversweet/git.git
+   50  git push  origin master
+   51  git push -u origin main
+   52  git push  origin master
+   53  git push -u origin main
+   54  git push
+   55  git push --set-upstream origin master
+   56  git push --set-upstream origin master
+   57  [200~echo "# git" >> README.md
+   58  git init
+   59  git add README.md
+   60  git commit -m "first commit"
+   61  git branch -M main
+   62  git remote add origin gitgithub.com:Oversweet/git.git
+   63  git branch -M master
+   64  git push -u origin main
+   65  git push -u origin master
+   66  git push -u origin main
+   67  echo "# git" >> README.md
+   68  git init
+   69  git add README.md
+   70  git commit -m "first commit"
+   71  git branch -M main
+   72  git remote add origin git@github.com:Oversweet/git.git
+   73  git push -u origin main
+   74  mkdir -p ~/word && history > ~/word/command_history.txt
+   75  mkdir -p ~/word && history > ~/word/command_history.txt
+   76  history > ~/command_history.txt
+   77  cd ..
+   78  mkdir test
+   79  cd test
+   80  git clone https://github.com/Oversweet/git.git
+   81  git status
+   82  git init
+   83  git status
+   84  git commit -m 'je sais pas'
+   85  git push
+   86  cd ..
+   87  git clone https://github.com/Oversweet/flash.git
+   88  cd flash/
+   89  git add .
+   90  git status
+   91  git commit -m 'je prie'
+   92  git status
+   93  git push
+   94  git branch developt
+   95  git branc
+   96  git branch
+   97  git checkout developt
+   98  git branch
+   99  git checkout -b features
+  100  git status
+  101  history > /command_history.txt
+  102  history > ~/command_history.txt
